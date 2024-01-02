@@ -1,7 +1,7 @@
 <div align="center">
   <h2 align="center">Claudio H. S. Junior</h2>
   
-  <div style="display: inline_block"><br/>
+  <div style="display: inline_block">
       <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
       <img align="center" alt="html5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
       <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
